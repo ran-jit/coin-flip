@@ -1,4 +1,4 @@
 # coin-flip
 Coin Flip
 
-https://ran-jit.github.io/coin-flip/
+https://ran-jit.github.io/coin-flip
